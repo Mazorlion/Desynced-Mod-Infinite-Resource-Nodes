@@ -1,8 +1,8 @@
 {
     "id": "InfiniteResourceNodes",
     "name": "Infinite Resource Nodes",
-    "version_name": "0.0.3",
-    "version_code": 3,
+    "version_name": "0.0.4-fixed-infinite",
+    "version_code": 4,
     "author": "Maz",
     "homepage": "",
     "description": "Resource nodes have 2^31 (more than two billion) resources.",
