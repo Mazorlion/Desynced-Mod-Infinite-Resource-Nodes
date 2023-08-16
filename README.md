@@ -1,6 +1,6 @@
 # Desynced-Mod-Infinite-Resource-Nodes
 
-![icon](InfiniteResources.png)
+![icon](InfiniteResource.png)
 
 Causes all non-tree resource nodes to be infinite.
 
