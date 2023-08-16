@@ -1,0 +1,19 @@
+{
+    "id": "InfiniteResourceNodes",
+    "name": "Infinite Resource Nodes",
+    "version_name": "0.0.3",
+    "version_code": 3,
+    "author": "Maz",
+    "homepage": "",
+    "description": "Resource nodes have 2^31 (more than two billion) resources.",
+    "packages": {
+        "Addon": {
+            "name": "InfiniteResourceNodes",
+            "entry": "main.lua",
+            "dependencies": [
+                "Main/Data"
+            ],
+            "type": "Addon"
+        }
+    }
+}
