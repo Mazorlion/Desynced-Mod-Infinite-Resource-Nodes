@@ -13,9 +13,9 @@ function package:init()
                 if node.resource then
                     for k3, resource in pairs(node.resource) do
                         -- min
-                        resource[1] = REG_INFINITE
+                        resource[1] = 2 ^ 31 - 2
                         -- max
-                        resource[2] = REG_INFINITE
+                        resource[2] = 2 ^ 31 - 1
                     end
                 end
             end
